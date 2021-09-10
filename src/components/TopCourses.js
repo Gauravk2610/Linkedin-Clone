@@ -1,4 +1,4 @@
-import { Adjust, KeyboardArrowDown, KeyboardArrowUp, PriorityHigh } from '@material-ui/icons'
+import { KeyboardArrowDown, KeyboardArrowUp, PriorityHigh } from '@material-ui/icons'
 import React, { useState } from 'react'
 import styled from 'styled-components'
 
